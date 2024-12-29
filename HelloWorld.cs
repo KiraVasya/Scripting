@@ -7,13 +7,14 @@ public class HelloWorld : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Выводит в консоль сообщение о приветсвие!
+        // Г‚Г»ГўГ®Г¤ГЁГІ Гў ГЄГ®Г­Г±Г®Г«Гј Г±Г®Г®ГЎГ№ГҐГ­ГЁГҐ Г® ГЇГ°ГЁГўГҐГІГ±ГўГЁГҐ!
         print("Hello, World"); 
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        cd Sherlock
+вЂў python3 install.py hello
     }
 }
